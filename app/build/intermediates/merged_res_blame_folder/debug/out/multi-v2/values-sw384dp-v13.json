@@ -4,7 +4,7 @@
             "outputFile": "com.pdftron.completereader.app-mergeDebugResources-30:/values-sw384dp-v13/values-sw384dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\shash\\OneDrive\\Desktop\\Shubham\\PDFNetAndroid\\PDFNetAndroid\\lib\\src\\pdfnet-demo-utils\\build\\intermediates\\packaged_res\\debug\\values-sw384dp-v13\\values-sw384dp-v13.xml",
+                    "source": "D:\\project\\PDFNetAndroid\\PDFNetAndroid\\lib\\src\\pdfnet-demo-utils\\build\\intermediates\\packaged_res\\debug\\values-sw384dp-v13\\values-sw384dp-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

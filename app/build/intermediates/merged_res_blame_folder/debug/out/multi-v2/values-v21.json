@@ -4,26 +4,7 @@
             "outputFile": "com.pdftron.completereader.app-mergeDebugResources-30:/values-v21/values-v21.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\shash\\OneDrive\\Desktop\\Shubham\\PDFNetAndroid\\PDFNetAndroid\\lib\\src\\PDFViewCtrlTools\\build\\intermediates\\packaged_res\\debug\\values-v21\\values-v21.xml",
-                    "from": {
-                        "startLines": "2,3,17,27",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,127,999,1570",
-                        "endLines": "2,16,26,37",
-                        "endColumns": "71,12,12,12",
-                        "endOffsets": "122,994,1565,2225"
-                    },
-                    "to": {
-                        "startLines": "2,289,320,462",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,21492,23850,32546",
-                        "endLines": "2,302,329,472",
-                        "endColumns": "71,12,12,12",
-                        "endOffsets": "122,22359,24416,33201"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\shash\\OneDrive\\Desktop\\Shubham\\PDFNetAndroid\\PDFNetAndroid\\lib\\src\\pdfnet-demo-utils\\build\\intermediates\\packaged_res\\debug\\values-v21\\values-v21.xml",
+                    "source": "D:\\project\\PDFNetAndroid\\PDFNetAndroid\\lib\\src\\pdfnet-demo-utils\\build\\intermediates\\packaged_res\\debug\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2,5",
                         "startColumns": "4,4",
@@ -58,6 +39,25 @@
                         "endLines": "3,18,19,20,375,376,383,387,475,480",
                         "endColumns": "117,63,66,63,115,125,125,127,12,12",
                         "endOffsets": "240,1539,1606,1670,27072,27198,27655,27951,33373,33725"
+                    }
+                },
+                {
+                    "source": "D:\\project\\PDFNetAndroid\\PDFNetAndroid\\lib\\src\\PDFViewCtrlTools\\build\\intermediates\\packaged_res\\debug\\values-v21\\values-v21.xml",
+                    "from": {
+                        "startLines": "2,3,17,27",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,127,999,1570",
+                        "endLines": "2,16,26,37",
+                        "endColumns": "71,12,12,12",
+                        "endOffsets": "122,994,1565,2225"
+                    },
+                    "to": {
+                        "startLines": "2,289,320,462",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,21492,23850,32546",
+                        "endLines": "2,302,329,472",
+                        "endColumns": "71,12,12,12",
+                        "endOffsets": "122,22359,24416,33201"
                     }
                 },
                 {

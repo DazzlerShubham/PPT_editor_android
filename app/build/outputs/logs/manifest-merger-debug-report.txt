@@ -1,19 +1,19 @@
 -- Merging decision tree log ---
 meta-data#pdftron_license_key
-INJECTED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:22:9-24:52
+INJECTED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:22:9-24:52
 	android:value
-		INJECTED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:24:13-49
+		INJECTED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml
+		ADDED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:24:13-49
 	android:name
-		ADDED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:23:13-47
+		ADDED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:23:13-47
 manifest
-ADDED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:2:1-53:12
-INJECTED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:2:1-53:12
-INJECTED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:2:1-53:12
-INJECTED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:2:1-53:12
-MERGED from [:pdfnet-demo-utils] C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\lib\src\pdfnet-demo-utils\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-28:12
+ADDED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:2:1-53:12
+MERGED from [:pdfnet-demo-utils] D:\project\PDFNetAndroid\PDFNetAndroid\lib\src\pdfnet-demo-utils\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-28:12
 MERGED from [androidx.databinding:viewbinding:8.0.2] C:\Users\shash\.gradle\caches\transforms-3\1c26aed49eefb035d23587dee5b27cbf\transformed\jetified-viewbinding-8.0.2\AndroidManifest.xml:2:1-7:12
-MERGED from [:PDFViewCtrlTools] C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\lib\src\PDFViewCtrlTools\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-28:12
+MERGED from [:PDFViewCtrlTools] D:\project\PDFNetAndroid\PDFNetAndroid\lib\src\PDFViewCtrlTools\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-28:12
 MERGED from [com.pdftron:pdftron:] C:\Users\shash\.gradle\caches\transforms-3\39e49e19fe0774aa43609a08abd3b5c3\transformed\jetified-pdftron\AndroidManifest.xml:2:1-14:12
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\shash\.gradle\caches\transforms-3\21ed44a59d1ba4e81c080f09fd02842f\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.material:material:1.5.0] C:\Users\shash\.gradle\caches\transforms-3\a965dbd46dad388efad08cc8f6d01086\transformed\material-1.5.0\AndroidManifest.xml:17:1-24:12
@@ -79,45 +79,45 @@ MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\shash\.
 MERGED from [com.facebook.fresco:middleware:2.6.0] C:\Users\shash\.gradle\caches\transforms-3\420b5fd2c38cc3009fa95913fdf5f37c\transformed\jetified-middleware-2.6.0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:ui-common:2.6.0] C:\Users\shash\.gradle\caches\transforms-3\af024c3e1fc6e05ef607048c64128818\transformed\jetified-ui-common-2.6.0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:fbcore:2.6.0] C:\Users\shash\.gradle\caches\transforms-3\9704118e9e8cfaf90c865b6753626dc8\transformed\jetified-fbcore-2.6.0\AndroidManifest.xml:2:1-9:12
-INJECTED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:2:1-53:12
-INJECTED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:2:1-53:12
-INJECTED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:2:1-53:12
 	package
-		ADDED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:3:5-41
-		INJECTED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml
+		ADDED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml
+		INJECTED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:2:1-53:12
-		INJECTED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml
+		INJECTED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml
+		ADDED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:2:1-53:12
+		INJECTED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:2:1-53:12
-		INJECTED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml
+		INJECTED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml
+		ADDED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:2:1-53:12
+		INJECTED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:5:5-67
+ADDED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:5:5-67
 	android:name
-		ADDED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:5:22-64
+		ADDED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:5:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:6:5-79
+ADDED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:6:5-79
 	android:name
-		ADDED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:6:22-76
+		ADDED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:6:22-76
 uses-permission#android.permission.VIBRATE
-ADDED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:7:5-66
+ADDED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:7:5-66
 	android:name
-		ADDED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:7:22-63
+		ADDED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:7:22-63
 uses-permission#android.permission.RECORD_AUDIO
-ADDED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:8:5-71
+ADDED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:8:5-71
 	android:name
-		ADDED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:8:22-68
+		ADDED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:8:22-68
 application
-ADDED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:10:5-51:19
-MERGED from [:pdfnet-demo-utils] C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\lib\src\pdfnet-demo-utils\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-26:19
-MERGED from [:pdfnet-demo-utils] C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\lib\src\pdfnet-demo-utils\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-26:19
-MERGED from [:PDFViewCtrlTools] C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\lib\src\PDFViewCtrlTools\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-26:19
-MERGED from [:PDFViewCtrlTools] C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\lib\src\PDFViewCtrlTools\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-26:19
+ADDED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:10:5-51:19
+MERGED from [:pdfnet-demo-utils] D:\project\PDFNetAndroid\PDFNetAndroid\lib\src\pdfnet-demo-utils\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-26:19
+MERGED from [:pdfnet-demo-utils] D:\project\PDFNetAndroid\PDFNetAndroid\lib\src\pdfnet-demo-utils\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-26:19
+MERGED from [:PDFViewCtrlTools] D:\project\PDFNetAndroid\PDFNetAndroid\lib\src\PDFViewCtrlTools\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-26:19
+MERGED from [:PDFViewCtrlTools] D:\project\PDFNetAndroid\PDFNetAndroid\lib\src\PDFViewCtrlTools\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-26:19
 MERGED from [com.pdftron:pdftron:] C:\Users\shash\.gradle\caches\transforms-3\39e49e19fe0774aa43609a08abd3b5c3\transformed\jetified-pdftron\AndroidManifest.xml:7:5-12:19
 MERGED from [com.pdftron:pdftron:] C:\Users\shash\.gradle\caches\transforms-3\39e49e19fe0774aa43609a08abd3b5c3\transformed\jetified-pdftron\AndroidManifest.xml:7:5-12:19
 MERGED from [com.google.android.material:material:1.5.0] C:\Users\shash\.gradle\caches\transforms-3\a965dbd46dad388efad08cc8f6d01086\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
@@ -139,81 +139,81 @@ MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\shash\.gradle\
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\shash\.gradle\caches\transforms-3\0c7bb944f3e4dca76f0e2467ecc7ea80\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\shash\.gradle\caches\transforms-3\0c7bb944f3e4dca76f0e2467ecc7ea80\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
 	android:requestLegacyExternalStorage
-		ADDED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:16:9-52
+		ADDED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:16:9-52
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.5.0] C:\Users\shash\.gradle\caches\transforms-3\ce0ba8289a4a09d3a4e8f9cafa714d0f\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:18:9-35
+		ADDED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:18:9-35
 	android:label
-		ADDED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:14:9-41
+		ADDED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:14:9-41
 	android:roundIcon
-		ADDED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:17:9-54
+		ADDED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:17:9-54
 	android:largeHeap
-		ADDED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:15:9-33
+		ADDED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:15:9-33
 	android:icon
-		ADDED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:13:9-43
+		ADDED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:13:9-43
 	android:allowBackup
-		ADDED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:12:9-35
+		ADDED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:12:9-35
 	android:theme
-		ADDED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:19:9-40
+		ADDED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:19:9-40
 	android:usesCleartextTraffic
-		ADDED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:20:9-44
+		ADDED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:20:9-44
 	android:name
-		ADDED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:11:9-61
+		ADDED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:11:9-61
 activity#com.pdftron.completereader.MainActivity
-ADDED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:26:9-33:20
+ADDED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:26:9-33:20
 	android:exported
-		ADDED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:26:48-71
+		ADDED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:26:48-71
 	android:name
-		ADDED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:26:19-47
+		ADDED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:26:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:27:13-31:29
+ADDED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:27:13-31:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:28:17-69
+ADDED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:28:17-69
 	android:name
-		ADDED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:28:25-66
+		ADDED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:28:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:30:17-77
+ADDED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:30:17-77
 	android:name
-		ADDED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:30:27-74
+		ADDED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:30:27-74
 activity#com.pdftron.pdf.controls.DiffActivity
-ADDED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:35:9-39:55
+ADDED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:35:9-39:55
 	android:windowSoftInputMode
-		ADDED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:39:13-52
+		ADDED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:39:13-52
 	android:configChanges
-		ADDED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:37:13-106
+		ADDED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:37:13-106
 	android:theme
-		ADDED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:38:13-49
+		ADDED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:38:13-49
 	android:name
-		ADDED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:36:13-65
+		ADDED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:36:13-65
 activity#com.pdftron.demo.app.SimpleReaderActivity
-ADDED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:41:9-45:55
+ADDED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:41:9-45:55
 	android:windowSoftInputMode
-		ADDED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:45:13-52
+		ADDED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:45:13-52
 	android:configChanges
-		ADDED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:43:13-106
+		ADDED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:43:13-106
 	android:theme
-		ADDED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:44:13-49
+		ADDED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:44:13-49
 	android:name
-		ADDED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:42:13-69
+		ADDED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:42:13-69
 activity#com.pdftron.demo.app.SettingsActivity
-ADDED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:47:9-50:52
+ADDED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:47:9-50:52
 	android:parentActivityName
-		ADDED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:49:13-85
+		ADDED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:49:13-85
 	android:theme
-		ADDED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:50:13-49
+		ADDED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:50:13-49
 	android:name
-		ADDED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:48:13-65
+		ADDED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml:48:13-65
 uses-sdk
-INJECTED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml
-MERGED from [:pdfnet-demo-utils] C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\lib\src\pdfnet-demo-utils\build\intermediates\merged_manifest\debug\AndroidManifest.xml:6:5-44
-MERGED from [:pdfnet-demo-utils] C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\lib\src\pdfnet-demo-utils\build\intermediates\merged_manifest\debug\AndroidManifest.xml:6:5-44
+INJECTED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml
+INJECTED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml
+MERGED from [:pdfnet-demo-utils] D:\project\PDFNetAndroid\PDFNetAndroid\lib\src\pdfnet-demo-utils\build\intermediates\merged_manifest\debug\AndroidManifest.xml:6:5-44
+MERGED from [:pdfnet-demo-utils] D:\project\PDFNetAndroid\PDFNetAndroid\lib\src\pdfnet-demo-utils\build\intermediates\merged_manifest\debug\AndroidManifest.xml:6:5-44
 MERGED from [androidx.databinding:viewbinding:8.0.2] C:\Users\shash\.gradle\caches\transforms-3\1c26aed49eefb035d23587dee5b27cbf\transformed\jetified-viewbinding-8.0.2\AndroidManifest.xml:5:5-44
 MERGED from [androidx.databinding:viewbinding:8.0.2] C:\Users\shash\.gradle\caches\transforms-3\1c26aed49eefb035d23587dee5b27cbf\transformed\jetified-viewbinding-8.0.2\AndroidManifest.xml:5:5-44
-MERGED from [:PDFViewCtrlTools] C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\lib\src\PDFViewCtrlTools\build\intermediates\merged_manifest\debug\AndroidManifest.xml:6:5-44
-MERGED from [:PDFViewCtrlTools] C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\lib\src\PDFViewCtrlTools\build\intermediates\merged_manifest\debug\AndroidManifest.xml:6:5-44
+MERGED from [:PDFViewCtrlTools] D:\project\PDFNetAndroid\PDFNetAndroid\lib\src\PDFViewCtrlTools\build\intermediates\merged_manifest\debug\AndroidManifest.xml:6:5-44
+MERGED from [:PDFViewCtrlTools] D:\project\PDFNetAndroid\PDFNetAndroid\lib\src\PDFViewCtrlTools\build\intermediates\merged_manifest\debug\AndroidManifest.xml:6:5-44
 MERGED from [com.pdftron:pdftron:] C:\Users\shash\.gradle\caches\transforms-3\39e49e19fe0774aa43609a08abd3b5c3\transformed\jetified-pdftron\AndroidManifest.xml:5:5-44
 MERGED from [com.pdftron:pdftron:] C:\Users\shash\.gradle\caches\transforms-3\39e49e19fe0774aa43609a08abd3b5c3\transformed\jetified-pdftron\AndroidManifest.xml:5:5-44
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\shash\.gradle\caches\transforms-3\21ed44a59d1ba4e81c080f09fd02842f\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
@@ -344,62 +344,62 @@ MERGED from [com.facebook.fresco:ui-common:2.6.0] C:\Users\shash\.gradle\caches\
 MERGED from [com.facebook.fresco:ui-common:2.6.0] C:\Users\shash\.gradle\caches\transforms-3\af024c3e1fc6e05ef607048c64128818\transformed\jetified-ui-common-2.6.0\AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:fbcore:2.6.0] C:\Users\shash\.gradle\caches\transforms-3\9704118e9e8cfaf90c865b6753626dc8\transformed\jetified-fbcore-2.6.0\AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:fbcore:2.6.0] C:\Users\shash\.gradle\caches\transforms-3\9704118e9e8cfaf90c865b6753626dc8\transformed\jetified-fbcore-2.6.0\AndroidManifest.xml:5:5-7:41
-INJECTED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml
+INJECTED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml
+INJECTED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml
+		INJECTED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml
+		ADDED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml
+		INJECTED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml
+		INJECTED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml
+		ADDED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml
+		INJECTED from D:\project\PDFNetAndroid\PDFNetAndroid\samples\CompleteReader\app\src\main\AndroidManifest.xml
 provider#com.pdftron.demo.utils.PDFTronDemoInitializer
-ADDED from [:pdfnet-demo-utils] C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\lib\src\pdfnet-demo-utils\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:9-12:40
+ADDED from [:pdfnet-demo-utils] D:\project\PDFNetAndroid\PDFNetAndroid\lib\src\pdfnet-demo-utils\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:9-12:40
 	android:authorities
-		ADDED from [:pdfnet-demo-utils] C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\lib\src\pdfnet-demo-utils\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-64
+		ADDED from [:pdfnet-demo-utils] D:\project\PDFNetAndroid\PDFNetAndroid\lib\src\pdfnet-demo-utils\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-64
 	android:exported
-		ADDED from [:pdfnet-demo-utils] C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\lib\src\pdfnet-demo-utils\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-37
+		ADDED from [:pdfnet-demo-utils] D:\project\PDFNetAndroid\PDFNetAndroid\lib\src\pdfnet-demo-utils\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-37
 	android:name
-		ADDED from [:pdfnet-demo-utils] C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\lib\src\pdfnet-demo-utils\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:13-73
+		ADDED from [:pdfnet-demo-utils] D:\project\PDFNetAndroid\PDFNetAndroid\lib\src\pdfnet-demo-utils\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:13-73
 provider#com.pdftron.pdf.utils.PDFTronToolsInitializer
-ADDED from [:pdfnet-demo-utils] C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\lib\src\pdfnet-demo-utils\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:9-16:35
-REJECTED from [:PDFViewCtrlTools] C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\lib\src\PDFViewCtrlTools\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:9-12:40
+ADDED from [:pdfnet-demo-utils] D:\project\PDFNetAndroid\PDFNetAndroid\lib\src\pdfnet-demo-utils\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:9-16:35
+REJECTED from [:PDFViewCtrlTools] D:\project\PDFNetAndroid\PDFNetAndroid\lib\src\PDFViewCtrlTools\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:9-12:40
 	tools:node
-		ADDED from [:pdfnet-demo-utils] C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\lib\src\pdfnet-demo-utils\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:13-32
+		ADDED from [:pdfnet-demo-utils] D:\project\PDFNetAndroid\PDFNetAndroid\lib\src\pdfnet-demo-utils\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:13-32
 	android:authorities
-		ADDED from [:pdfnet-demo-utils] C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\lib\src\pdfnet-demo-utils\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-65
+		ADDED from [:pdfnet-demo-utils] D:\project\PDFNetAndroid\PDFNetAndroid\lib\src\pdfnet-demo-utils\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-65
 	android:name
-		ADDED from [:pdfnet-demo-utils] C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\lib\src\pdfnet-demo-utils\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-73
+		ADDED from [:pdfnet-demo-utils] D:\project\PDFNetAndroid\PDFNetAndroid\lib\src\pdfnet-demo-utils\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-73
 provider#com.pdftron.pdf.utils.ShareProvider
-ADDED from [:pdfnet-demo-utils] C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\lib\src\pdfnet-demo-utils\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:9-25:20
-MERGED from [:PDFViewCtrlTools] C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\lib\src\PDFViewCtrlTools\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:9-25:20
-MERGED from [:PDFViewCtrlTools] C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\lib\src\PDFViewCtrlTools\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:9-25:20
+ADDED from [:pdfnet-demo-utils] D:\project\PDFNetAndroid\PDFNetAndroid\lib\src\pdfnet-demo-utils\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:9-25:20
+MERGED from [:PDFViewCtrlTools] D:\project\PDFNetAndroid\PDFNetAndroid\lib\src\PDFViewCtrlTools\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:9-25:20
+MERGED from [:PDFViewCtrlTools] D:\project\PDFNetAndroid\PDFNetAndroid\lib\src\PDFViewCtrlTools\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:9-25:20
 	android:grantUriPermissions
-		ADDED from [:pdfnet-demo-utils] C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\lib\src\pdfnet-demo-utils\build\intermediates\merged_manifest\debug\AndroidManifest.xml:21:13-47
+		ADDED from [:pdfnet-demo-utils] D:\project\PDFNetAndroid\PDFNetAndroid\lib\src\pdfnet-demo-utils\build\intermediates\merged_manifest\debug\AndroidManifest.xml:21:13-47
 	android:authorities
-		ADDED from [:pdfnet-demo-utils] C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\lib\src\pdfnet-demo-utils\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:13-72
+		ADDED from [:pdfnet-demo-utils] D:\project\PDFNetAndroid\PDFNetAndroid\lib\src\pdfnet-demo-utils\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:13-72
 	android:exported
-		ADDED from [:pdfnet-demo-utils] C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\lib\src\pdfnet-demo-utils\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:13-37
+		ADDED from [:pdfnet-demo-utils] D:\project\PDFNetAndroid\PDFNetAndroid\lib\src\pdfnet-demo-utils\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:13-37
 	android:name
-		ADDED from [:pdfnet-demo-utils] C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\lib\src\pdfnet-demo-utils\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-63
+		ADDED from [:pdfnet-demo-utils] D:\project\PDFNetAndroid\PDFNetAndroid\lib\src\pdfnet-demo-utils\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-63
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from [:pdfnet-demo-utils] C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\lib\src\pdfnet-demo-utils\build\intermediates\merged_manifest\debug\AndroidManifest.xml:22:13-24:66
-MERGED from [:PDFViewCtrlTools] C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\lib\src\PDFViewCtrlTools\build\intermediates\merged_manifest\debug\AndroidManifest.xml:22:13-24:66
-MERGED from [:PDFViewCtrlTools] C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\lib\src\PDFViewCtrlTools\build\intermediates\merged_manifest\debug\AndroidManifest.xml:22:13-24:66
+ADDED from [:pdfnet-demo-utils] D:\project\PDFNetAndroid\PDFNetAndroid\lib\src\pdfnet-demo-utils\build\intermediates\merged_manifest\debug\AndroidManifest.xml:22:13-24:66
+MERGED from [:PDFViewCtrlTools] D:\project\PDFNetAndroid\PDFNetAndroid\lib\src\PDFViewCtrlTools\build\intermediates\merged_manifest\debug\AndroidManifest.xml:22:13-24:66
+MERGED from [:PDFViewCtrlTools] D:\project\PDFNetAndroid\PDFNetAndroid\lib\src\PDFViewCtrlTools\build\intermediates\merged_manifest\debug\AndroidManifest.xml:22:13-24:66
 	android:resource
-		ADDED from [:pdfnet-demo-utils] C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\lib\src\pdfnet-demo-utils\build\intermediates\merged_manifest\debug\AndroidManifest.xml:24:17-63
+		ADDED from [:pdfnet-demo-utils] D:\project\PDFNetAndroid\PDFNetAndroid\lib\src\pdfnet-demo-utils\build\intermediates\merged_manifest\debug\AndroidManifest.xml:24:17-63
 	android:name
-		ADDED from [:pdfnet-demo-utils] C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\lib\src\pdfnet-demo-utils\build\intermediates\merged_manifest\debug\AndroidManifest.xml:23:17-67
+		ADDED from [:pdfnet-demo-utils] D:\project\PDFNetAndroid\PDFNetAndroid\lib\src\pdfnet-demo-utils\build\intermediates\merged_manifest\debug\AndroidManifest.xml:23:17-67
 provider#com.pdftron.pdfnet.PDFNetInitializer
-ADDED from [:PDFViewCtrlTools] C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\lib\src\PDFViewCtrlTools\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:9-16:35
+ADDED from [:PDFViewCtrlTools] D:\project\PDFNetAndroid\PDFNetAndroid\lib\src\PDFViewCtrlTools\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:9-16:35
 REJECTED from [com.pdftron:pdftron:] C:\Users\shash\.gradle\caches\transforms-3\39e49e19fe0774aa43609a08abd3b5c3\transformed\jetified-pdftron\AndroidManifest.xml:8:9-11:40
 	tools:node
-		ADDED from [:PDFViewCtrlTools] C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\lib\src\PDFViewCtrlTools\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:13-32
+		ADDED from [:PDFViewCtrlTools] D:\project\PDFNetAndroid\PDFNetAndroid\lib\src\PDFViewCtrlTools\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:13-32
 	android:authorities
-		ADDED from [:PDFViewCtrlTools] C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\lib\src\PDFViewCtrlTools\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-66
+		ADDED from [:PDFViewCtrlTools] D:\project\PDFNetAndroid\PDFNetAndroid\lib\src\PDFViewCtrlTools\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-66
 	android:name
-		ADDED from [:PDFViewCtrlTools] C:\Users\shash\OneDrive\Desktop\Shubham\PDFNetAndroid\PDFNetAndroid\lib\src\PDFViewCtrlTools\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-64
+		ADDED from [:PDFViewCtrlTools] D:\project\PDFNetAndroid\PDFNetAndroid\lib\src\PDFViewCtrlTools\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-64
 provider#com.squareup.picasso.PicassoProvider
 ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\shash\.gradle\caches\transforms-3\c8b6a4483980050471949c7776356ec0\transformed\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
 	android:authorities

@@ -1,15 +1,15 @@
 [
     {
-        "merged": "C:\\Users\\shash\\.gradle\\daemon\\8.0\\com.pdftron.completereader.app-merged_res-32:\\layout_diff_preview.xml.flat",
-        "source": "C:\\Users\\shash\\.gradle\\daemon\\8.0\\com.pdftron.completereader.app-main-34:\\layout\\diff_preview.xml"
+        "merged": "com.pdftron.completereader.app-merged_res-32:/raw_diff_doc_2.pdf.flat",
+        "source": "com.pdftron.completereader.app-main-34:/raw/diff_doc_2.pdf"
     },
     {
-        "merged": "C:\\Users\\shash\\.gradle\\daemon\\8.0\\com.pdftron.completereader.app-merged_res-32:\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\shash\\.gradle\\daemon\\8.0\\com.pdftron.completereader.app-main-34:\\mipmap-xhdpi\\ic_launcher.png"
+        "merged": "com.pdftron.completereader.app-merged_res-32:/layout-land_activity_main.xml.flat",
+        "source": "com.pdftron.completereader.app-main-34:/layout-land/activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\shash\\.gradle\\daemon\\8.0\\com.pdftron.completereader.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\shash\\.gradle\\daemon\\8.0\\com.pdftron.completereader.app-main-34:\\mipmap-xxhdpi\\ic_launcher.png"
+        "merged": "com.pdftron.completereader.app-merged_res-32:/layout_diff_preview.xml.flat",
+        "source": "com.pdftron.completereader.app-main-34:/layout/diff_preview.xml"
     },
     {
         "merged": "com.pdftron.completereader.app-merged_res-32:/mipmap-mdpi_ic_launcher.webp.flat",
@@ -20,24 +20,24 @@
         "source": "com.pdftron.completereader.app-main-34:/drawable/ajath_logo.png"
     },
     {
-        "merged": "C:\\Users\\shash\\.gradle\\daemon\\8.0\\com.pdftron.completereader.app-merged_res-32:\\drawable_button.xml.flat",
-        "source": "C:\\Users\\shash\\.gradle\\daemon\\8.0\\com.pdftron.completereader.app-main-34:\\drawable\\button.xml"
+        "merged": "com.pdftron.completereader.app-merged_res-32:/drawable-nodpi_complete_reader.png.flat",
+        "source": "com.pdftron.completereader.app-main-34:/drawable-nodpi/complete_reader.png"
+    },
+    {
+        "merged": "com.pdftron.completereader.app-merged_res-32:/layout_activity_main.xml.flat",
+        "source": "com.pdftron.completereader.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.pdftron.completereader.app-merged_res-32:/drawable-nodpi_simple_reader_new.png.flat",
+        "source": "com.pdftron.completereader.app-main-34:/drawable-nodpi/simple_reader_new.png"
     },
     {
         "merged": "com.pdftron.completereader.app-merged_res-32:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
         "source": "com.pdftron.completereader.app-main-34:/mipmap-xhdpi/ic_launcher_foreground.webp"
     },
     {
-        "merged": "C:\\Users\\shash\\.gradle\\daemon\\8.0\\com.pdftron.completereader.app-merged_res-32:\\mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\shash\\.gradle\\daemon\\8.0\\com.pdftron.completereader.app-main-34:\\mipmap-mdpi\\ic_launcher_round.png"
-    },
-    {
-        "merged": "C:\\Users\\shash\\.gradle\\daemon\\8.0\\com.pdftron.completereader.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\shash\\.gradle\\daemon\\8.0\\com.pdftron.completereader.app-main-34:\\mipmap-xxxhdpi\\ic_launcher_round.png"
-    },
-    {
-        "merged": "C:\\Users\\shash\\.gradle\\daemon\\8.0\\com.pdftron.completereader.app-merged_res-32:\\raw_diff_doc_1.pdf.flat",
-        "source": "C:\\Users\\shash\\.gradle\\daemon\\8.0\\com.pdftron.completereader.app-main-34:\\raw\\diff_doc_1.pdf"
+        "merged": "com.pdftron.completereader.app-merged_res-32:/drawable_button.xml.flat",
+        "source": "com.pdftron.completereader.app-main-34:/drawable/button.xml"
     },
     {
         "merged": "com.pdftron.completereader.app-merged_res-32:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
@@ -48,24 +48,8 @@
         "source": "com.pdftron.completereader.app-main-34:/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\shash\\.gradle\\daemon\\8.0\\com.pdftron.completereader.app-merged_res-32:\\drawable-nodpi_diff.png.flat",
-        "source": "C:\\Users\\shash\\.gradle\\daemon\\8.0\\com.pdftron.completereader.app-main-34:\\drawable-nodpi\\diff.png"
-    },
-    {
         "merged": "com.pdftron.completereader.app-merged_res-32:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
         "source": "com.pdftron.completereader.app-main-34:/mipmap-anydpi-v26/ic_launcher_round.xml"
-    },
-    {
-        "merged": "C:\\Users\\shash\\.gradle\\daemon\\8.0\\com.pdftron.completereader.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\shash\\.gradle\\daemon\\8.0\\com.pdftron.completereader.app-main-34:\\mipmap-xxhdpi\\ic_launcher_round.png"
-    },
-    {
-        "merged": "C:\\Users\\shash\\.gradle\\daemon\\8.0\\com.pdftron.completereader.app-merged_res-32:\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\shash\\.gradle\\daemon\\8.0\\com.pdftron.completereader.app-main-34:\\mipmap-mdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "C:\\Users\\shash\\.gradle\\daemon\\8.0\\com.pdftron.completereader.app-merged_res-32:\\mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\shash\\.gradle\\daemon\\8.0\\com.pdftron.completereader.app-main-34:\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
         "merged": "com.pdftron.completereader.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
@@ -76,20 +60,20 @@
         "source": "com.pdftron.completereader.app-main-34:/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
+        "merged": "com.pdftron.completereader.app-merged_res-32:/drawable-nodpi_diff.png.flat",
+        "source": "com.pdftron.completereader.app-main-34:/drawable-nodpi/diff.png"
+    },
+    {
+        "merged": "com.pdftron.completereader.app-merged_res-32:/raw_diff_doc_1.pdf.flat",
+        "source": "com.pdftron.completereader.app-main-34:/raw/diff_doc_1.pdf"
+    },
+    {
         "merged": "com.pdftron.completereader.app-merged_res-32:/mipmap-mdpi_ic_launcher_round.webp.flat",
         "source": "com.pdftron.completereader.app-main-34:/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\shash\\.gradle\\daemon\\8.0\\com.pdftron.completereader.app-merged_res-32:\\mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\shash\\.gradle\\daemon\\8.0\\com.pdftron.completereader.app-main-34:\\mipmap-hdpi\\ic_launcher_round.png"
-    },
-    {
         "merged": "com.pdftron.completereader.app-merged_res-32:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
         "source": "com.pdftron.completereader.app-main-34:/mipmap-xxhdpi/ic_launcher_round.webp"
-    },
-    {
-        "merged": "C:\\Users\\shash\\.gradle\\daemon\\8.0\\com.pdftron.completereader.app-merged_res-32:\\drawable-nodpi_simple_reader_new.png.flat",
-        "source": "C:\\Users\\shash\\.gradle\\daemon\\8.0\\com.pdftron.completereader.app-main-34:\\drawable-nodpi\\simple_reader_new.png"
     },
     {
         "merged": "com.pdftron.completereader.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher.webp.flat",
@@ -104,40 +88,20 @@
         "source": "com.pdftron.completereader.app-main-34:/mipmap-hdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\shash\\.gradle\\daemon\\8.0\\com.pdftron.completereader.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\shash\\.gradle\\daemon\\8.0\\com.pdftron.completereader.app-main-34:\\mipmap-xxxhdpi\\ic_launcher.png"
-    },
-    {
         "merged": "com.pdftron.completereader.app-merged_res-32:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
         "source": "com.pdftron.completereader.app-main-34:/mipmap-hdpi/ic_launcher_foreground.webp"
-    },
-    {
-        "merged": "C:\\Users\\shash\\.gradle\\daemon\\8.0\\com.pdftron.completereader.app-merged_res-32:\\drawable-nodpi_complete_reader.png.flat",
-        "source": "C:\\Users\\shash\\.gradle\\daemon\\8.0\\com.pdftron.completereader.app-main-34:\\drawable-nodpi\\complete_reader.png"
     },
     {
         "merged": "com.pdftron.completereader.app-merged_res-32:/mipmap-xhdpi_ic_launcher_round.webp.flat",
         "source": "com.pdftron.completereader.app-main-34:/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\shash\\.gradle\\daemon\\8.0\\com.pdftron.completereader.app-merged_res-32:\\layout-land_activity_main.xml.flat",
-        "source": "C:\\Users\\shash\\.gradle\\daemon\\8.0\\com.pdftron.completereader.app-main-34:\\layout-land\\activity_main.xml"
-    },
-    {
-        "merged": "C:\\Users\\shash\\.gradle\\daemon\\8.0\\com.pdftron.completereader.app-merged_res-32:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\shash\\.gradle\\daemon\\8.0\\com.pdftron.completereader.app-main-34:\\layout\\activity_main.xml"
-    },
-    {
         "merged": "com.pdftron.completereader.app-merged_res-32:/mipmap-anydpi-v26_ic_launcher.xml.flat",
         "source": "com.pdftron.completereader.app-main-34:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\shash\\.gradle\\daemon\\8.0\\com.pdftron.completereader.app-merged_res-32:\\layout_simple_reader_preview_new.xml.flat",
-        "source": "C:\\Users\\shash\\.gradle\\daemon\\8.0\\com.pdftron.completereader.app-main-34:\\layout\\simple_reader_preview_new.xml"
-    },
-    {
-        "merged": "C:\\Users\\shash\\.gradle\\daemon\\8.0\\com.pdftron.completereader.app-merged_res-32:\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\shash\\.gradle\\daemon\\8.0\\com.pdftron.completereader.app-main-34:\\mipmap-hdpi\\ic_launcher.png"
+        "merged": "com.pdftron.completereader.app-merged_res-32:/layout_simple_reader_preview_new.xml.flat",
+        "source": "com.pdftron.completereader.app-main-34:/layout/simple_reader_preview_new.xml"
     },
     {
         "merged": "com.pdftron.completereader.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
@@ -146,9 +110,5 @@
     {
         "merged": "com.pdftron.completereader.app-merged_res-32:/mipmap-xhdpi_ic_launcher.webp.flat",
         "source": "com.pdftron.completereader.app-main-34:/mipmap-xhdpi/ic_launcher.webp"
-    },
-    {
-        "merged": "C:\\Users\\shash\\.gradle\\daemon\\8.0\\com.pdftron.completereader.app-merged_res-32:\\raw_diff_doc_2.pdf.flat",
-        "source": "C:\\Users\\shash\\.gradle\\daemon\\8.0\\com.pdftron.completereader.app-main-34:\\raw\\diff_doc_2.pdf"
     }
 ]

@@ -1,15 +1,11 @@
 [
     {
-        "merged": "C:\\Users\\shash\\.gradle\\daemon\\8.0\\com.pdftron.completereader.app-mergeDebugResources-31:\\layout\\diff_preview.xml",
-        "source": "C:\\Users\\shash\\.gradle\\daemon\\8.0\\com.pdftron.completereader.app-main-34:\\layout\\diff_preview.xml"
+        "merged": "com.pdftron.completereader.app-mergeDebugResources-31:/layout/simple_reader_preview_new.xml",
+        "source": "com.pdftron.completereader.app-main-34:/layout/simple_reader_preview_new.xml"
     },
     {
-        "merged": "C:\\Users\\shash\\.gradle\\daemon\\8.0\\com.pdftron.completereader.app-mergeDebugResources-31:\\layout\\activity_main.xml",
-        "source": "C:\\Users\\shash\\.gradle\\daemon\\8.0\\com.pdftron.completereader.app-main-34:\\layout\\activity_main.xml"
-    },
-    {
-        "merged": "C:\\Users\\shash\\.gradle\\daemon\\8.0\\com.pdftron.completereader.app-mergeDebugResources-31:\\layout\\simple_reader_preview_new.xml",
-        "source": "C:\\Users\\shash\\.gradle\\daemon\\8.0\\com.pdftron.completereader.app-main-34:\\layout\\simple_reader_preview_new.xml"
+        "merged": "com.pdftron.completereader.app-mergeDebugResources-31:/layout/diff_preview.xml",
+        "source": "com.pdftron.completereader.app-main-34:/layout/diff_preview.xml"
     },
     {
         "merged": "com.pdftron.completereader.app-mergeDebugResources-31:/layout/activity_main.xml",
