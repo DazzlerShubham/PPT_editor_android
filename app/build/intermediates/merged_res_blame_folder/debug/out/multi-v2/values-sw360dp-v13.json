@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.pdftron.completereader.app-mergeDebugResources-30:/values-sw360dp-v13/values-sw360dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\shash\\OneDrive\\Desktop\\Shubham\\PDFNetAndroid\\PDFNetAndroid\\lib\\src\\pdfnet-demo-utils\\build\\intermediates\\packaged_res\\debug\\values-sw360dp-v13\\values-sw360dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "127",
+                        "endColumns": "55",
+                        "endOffsets": "178"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\shash\\.gradle\\caches\\transforms-3\\5c19c5b64e0fe71fd30285cf17400a4b\\transformed\\preference-1.1.0\\res\\values-sw360dp-v13\\values-sw360dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "71",
+                        "endOffsets": "122"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.pdftron.completereader.app-mergeDebugResources-31:/layout-land/activity_main.xml",
+        "source": "com.pdftron.completereader.app-main-34:/layout-land/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\shash\\.gradle\\daemon\\8.0\\com.pdftron.completereader.app-mergeDebugResources-31:\\layout-land\\activity_main.xml",
+        "source": "C:\\Users\\shash\\.gradle\\daemon\\8.0\\com.pdftron.completereader.app-main-34:\\layout-land\\activity_main.xml"
+    }
+]
